@@ -1,0 +1,10 @@
+.sidebar{
+    background-color: #002469;
+    background-image: url('/assets/images/icon-blue.svg');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+.btn-primary{
+    background-color: #002469;
+}
